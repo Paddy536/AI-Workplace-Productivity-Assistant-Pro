@@ -286,7 +286,7 @@ Potential future enhancements include:
 
 ## Author
 
-Name: [Your Name]
+Name: Paddy Sechaba Mawela
 
 Programme: CAPACITI AI Skills Acceleration Programme
 
